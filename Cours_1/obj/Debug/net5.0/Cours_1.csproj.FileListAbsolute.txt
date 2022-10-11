@@ -1,0 +1,16 @@
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\bin\Debug\net5.0\Cours_1.exe
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\bin\Debug\net5.0\Cours_1.deps.json
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\bin\Debug\net5.0\Cours_1.runtimeconfig.json
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\bin\Debug\net5.0\Cours_1.runtimeconfig.dev.json
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\bin\Debug\net5.0\Cours_1.dll
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\bin\Debug\net5.0\ref\Cours_1.dll
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\bin\Debug\net5.0\Cours_1.pdb
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\obj\Debug\net5.0\Cours_1.csprojAssemblyReference.cache
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\obj\Debug\net5.0\Cours_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\obj\Debug\net5.0\Cours_1.AssemblyInfoInputs.cache
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\obj\Debug\net5.0\Cours_1.AssemblyInfo.cs
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\obj\Debug\net5.0\Cours_1.csproj.CoreCompileInputs.cache
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\obj\Debug\net5.0\Cours_1.dll
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\obj\Debug\net5.0\ref\Cours_1.dll
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\obj\Debug\net5.0\Cours_1.pdb
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_1\obj\Debug\net5.0\Cours_1.genruntimeconfig.cache
